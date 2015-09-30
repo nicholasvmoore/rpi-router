@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt-get update
-sudo apt-get install tmux zsh tcpdump bridge-utils wicd-curses telnet isc-dhcp-server bind9
+sudo apt-get install tmux zsh tcpdump bridge-utils wicd-curses telnet isc-dhcp-server bind9 python-flask python-wicd
 
 sudo sysctl -w net.ipv4.ip_forward=1
 

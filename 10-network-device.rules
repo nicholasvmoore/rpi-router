@@ -1,1 +1,2 @@
 KERNEL=="wlan*", ATTR{address}=="00:0d:81:91:d1:2f", NAME="wlan0"
+KERNEL=="wlan*", ATTR{address}=="74:da:38:2b:21:e7", NAME="wlan1"
